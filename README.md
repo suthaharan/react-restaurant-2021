@@ -25,7 +25,7 @@ Followed by that cleanup the code from index.js and app.js (making sure there ar
 
 
 ### Material UI
-To setup material UI and to learn more about it visit 
+* To setup material UI and to learn more about it visit 
     * Getting started [https://mui.com/getting-started/installation/]
     * Material icons [https://mui.com/components/material-icons/]
 ```
